@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adelahoinaru/examenTW.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adelahoinaru/examenTW/issues"
   },
-  "homepage": "https://github.com/adelahoinaru/examenTW#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.2",
